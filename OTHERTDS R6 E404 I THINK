@@ -1,2 +1,2 @@
-local wl = {"Othertd", "godofn_tting"}
-local panelsigmas = {"Othertd", "godofn_tting"}
+wl = {"Othertd","godofn_tting"}
+panelsigmas = {"Othertd","godofn_tting"}
